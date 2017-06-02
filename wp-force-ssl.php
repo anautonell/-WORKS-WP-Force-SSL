@@ -54,7 +54,7 @@ function wpfssl_welcome_screen_content() {
 	<h3>Some things are required for this to happen:</h3>
 	<ul class="ul-disc">
 			<li>You need an SSL Certificate in order for this plugin to work.</li>
-			<li>You need to add https to the WordPress Address (URL) and Site Address (URL) parameters under General > Settings. (Required by WordPress itself)</li>
+			<li>You need to change http to https in both the WordPress Address (URL) and Site Address (URL) parameters under Settings > General. (Required by WordPress itself).</li>
 	</ul>
 	<br>
 	<br>
