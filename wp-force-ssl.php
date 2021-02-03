@@ -1,10 +1,10 @@
 <?php
 /*
-	Plugin Name: WP Force SSL
-	Plugin URI: https://www.kosvrouvas.com
-	Description: Redirect all traffic from HTTP to HTTPS to all pages of your WordPress website.
+	Plugin Name: Safer WP
+	Plugin URI: https://boter.bubbleapps.io
+	Description: Redirect all traffic from HTTP to HTTPS to all pages of your WordPress website. No code!
 	Stable Tag: 1.4
-	Author: Kostas Vrouvas
+	Author: Boter Technologies
 	Version: 1.4
  */
 
