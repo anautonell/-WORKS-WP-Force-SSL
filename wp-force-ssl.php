@@ -48,13 +48,13 @@ function wpfssl_welcome_screen_content() {
 <div id="wpbody">
 <div id="wpbody-content">
 <div class="wrap about-wrap">
-	<h1>Thank you for installing WP Force SSL!</h1>
+	<h1>Thank you for installing Safer WP (Diagnostics)!</h1>
 	<div class="about-text">
 		This plugin helps you redirect HTTP traffic to HTTPS without the need of touching any code.</div>
 	<h3>Some things are required for this to happen:</h3>
 	<ul class="ul-disc">
-			<li>You need an SSL Certificate in order for this plugin to work.</li>
-			<li>You need to change http to https in both the WordPress Address (URL) and Site Address (URL) parameters under Settings > General. (Required by WordPress itself).</li>
+			<li>You need an SSL Certificate in order for this plugin to work. (If you installed our plugin, you're good to go!)</li>
+			<li>You need to change http to https in both the WordPress Address (URL) and Site Address (URL) parameters under Settings > General. (Required by WordPress itself). For example http:// you pass it to https:// so https://example.com</li>
 	</ul>
 	<br>
 	<br>
