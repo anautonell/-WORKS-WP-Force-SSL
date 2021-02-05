@@ -48,7 +48,7 @@ function wpfssl_welcome_screen_content() {
 <div id="wpbody">
 <div id="wpbody-content">
 <div class="wrap about-wrap">
-	<h1>Thank you for installing Safer WP (Diagnostics)!</h1>
+	<h1>Thank you for installing Safer WP!</h1>
 	<div class="about-text">
 		This plugin helps you redirect HTTP traffic to HTTPS without the need of touching any code.</div>
 	<h3>Some things are required for this to happen:</h3>
